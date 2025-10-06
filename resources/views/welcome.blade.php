@@ -60,6 +60,8 @@
             <div class="mt-5">
                 Seccion
             </div>
+            <span class="text-red-500">Nueva etiqueta</span>
+            <input onclick="alert('Hola Mundo')" type="button" value="Click me">
         </section>
 
         @if (Route::has('login'))
