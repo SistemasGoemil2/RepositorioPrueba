@@ -54,9 +54,7 @@
             <h1>Hola Mundo desde Git Hub, angular es gooood</h1>
             <p>Parrafo agregado</p>
 
-
-
-
+            <section>Se borraron espacios de mas</section>
 
             <div class="mt-5">
                 Seccion
