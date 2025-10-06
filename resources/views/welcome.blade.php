@@ -50,7 +50,7 @@
             @endif
         </header>
         <section class="text-xl font-bold text-black sm:text-2xl">
-            <h1>Hola Mundo desde Git Hub</h1>
+            <h1>Hola Mundo desde Git Hub, angular es gooood</h1>
             <p>Parrafo agregado</p>
 
 
