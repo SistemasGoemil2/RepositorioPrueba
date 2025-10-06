@@ -49,7 +49,7 @@
                 </nav>
             @endif
         </header>
-        <section class="text-xl font-bold text-black">
+        <section class="text-xl font-bold text-black sm:text-2xl">
             <h1>Hola Mundo</h1>
         </section>
 
