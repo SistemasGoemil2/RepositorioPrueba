@@ -52,6 +52,9 @@
         <section class="text-xl font-bold text-black sm:text-2xl">
             <h1>Hola Mundo desde Git Hub</h1>
             <p>Parrafo agregado</p>
+
+            <span class="text-red-500">Nueva etiqueta</span>
+            <input onclick="alert('Hola Mundo')" type="button" value="Click me">
         </section>
 
         @if (Route::has('login'))
