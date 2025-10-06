@@ -50,7 +50,8 @@
             @endif
         </header>
         <section class="text-xl font-bold text-black sm:text-2xl">
-            <h1>Hola Mundo</h1>
+            <h1>Hola Mundo desde Git Hub</h1>
+            <p>Parrafo agregado</p>
         </section>
 
         @if (Route::has('login'))
