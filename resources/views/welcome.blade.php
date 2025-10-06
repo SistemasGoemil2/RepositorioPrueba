@@ -52,6 +52,14 @@
         <section class="text-xl font-bold text-black sm:text-2xl">
             <h1>Hola Mundo desde Git Hub</h1>
             <p>Parrafo agregado</p>
+
+
+
+
+
+            <div class="mt-5">
+                Seccion
+            </div>
         </section>
 
         @if (Route::has('login'))
